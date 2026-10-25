@@ -52,3 +52,15 @@ Completed and tested
 AUTHOR:
 Mohamed Jazak J
 Electronics and Instrumentation Engineering Student
+
+## Project Gallery
+
+### Robot Front View
+![Line Follower Robot](robot-front.jpeg)
+
+### Robot Setup
+![Robot Setup](robot-setup.jpeg)
+
+## Testing Demonstration
+
+[Watch the line-following test video](<robot-line following test.mp4>)
