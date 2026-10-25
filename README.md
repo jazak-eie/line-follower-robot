@@ -8,7 +8,7 @@ The Line Follower Robot is a robotics project designed to follow a predefined pa
 HARDWARE COMPONENTS:
 - Arduino Nano — main controller
 - IR sensor array — line detection
-- L298N motor driver — motor control
+- TB6612FNG motor driver — motor control
 - DC motors — robot movement
 - Robot chassis(built from scratch) and wheels
 - Power supply(li-ion battery)
@@ -21,7 +21,7 @@ WORKING PRINCIPLE:
 1. The IR sensor array detects the black line against the white surface.
 2. The sensor readings are processed by the Arduino Nano.
 3. The Arduino determines the required movement based on the detected line position.
-4. The L298N motor driver controls the DC motors according to the controller's output.
+4. The TB6612FNG motor driver controls the DC motors according to the controller's output.
 5. The robot adjusts its direction to follow the path.
 
 IMPLEMENTATION:
